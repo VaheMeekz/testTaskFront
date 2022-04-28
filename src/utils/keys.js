@@ -4,7 +4,7 @@ export const errorTypes = {
     text: 'Text'
 }
 
-export const API_URI = 'http://localhost:5000/api'
+export const API_URI = 'https://meekz007.herokuapp.com/api'
 
 export const token = localStorage.getItem("myToken")
 
