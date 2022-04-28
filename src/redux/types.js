@@ -1,0 +1,6 @@
+export const GET_POSTS = 'POSTS/GET_POSTS'
+export const CREATE_POST = 'POSTS/CREATE_POST'
+export const EDIT_POST = 'POSTS/EDIT_POST'
+export const CHANGE_PAGE = 'POSTS/CHANGE_PAGE'
+export const SORT_POSTS = 'POSTS/SORT_POSTS'
+export const SIGN_IN_POST = 'AUTH/SIGN_IN_POST'

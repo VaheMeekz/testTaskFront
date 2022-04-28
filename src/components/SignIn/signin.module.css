@@ -1,0 +1,19 @@
+.wrapperBox {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.innerBox {
+    width: 500px;
+    height: auto;
+    border: 1px solid #ccc;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.innerBox:hover {
+    box-shadow: 0 0 3px 0;
+    transition: 0.2s;
+}

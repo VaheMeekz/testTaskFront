@@ -1,0 +1,18 @@
+.paginationField {
+    display: flex;
+    justify-content: center;
+}
+
+.addPostField {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+
+.inputError {
+    border-color: red;
+}
+
+.inputSuccess {
+    border-color: green;
+}
